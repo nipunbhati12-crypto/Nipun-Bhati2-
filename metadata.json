@@ -1,0 +1,6 @@
+{
+  "name": "Levi’s Clothing Premium Store",
+  "description": "A premium, modern eCommerce experience for Levi's. Discover high-quality denim jackets, timeless 501® jeans, trends, streetwear aesthetics, and interactive shopping tools with full local cart, wishlist, product filters, and live checkout simulator.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
